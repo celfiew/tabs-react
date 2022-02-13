@@ -1,4 +1,4 @@
-### Tabs React :doughnut:
+### Tabs React :octocat:
 
 ## Description:
 
